@@ -1,16 +1,14 @@
-## hi 👋
+### boas vindas ao meu perfil👋 
+meu nome é eric leonardo
 
-<!--
-**Ericleonardo1/ericleonardo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-estou estudando no [alura] (https://www.alura.com.br)
 
-Here are some ideas to get you started
+-estou me desenvolvemdo na liguaguem Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+###você entra em contato comigo;email
+
+00001095749894sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/i7llTDaTPtUAAAAC/naruto.gif)
